@@ -1,6 +1,6 @@
 # Projeto de Cadastro de Usuários em Django
 
-![Tabela de Usuários](https://github.com/Laislacerds/Cadastro_User/assets/112042523/a32c33db-9ebd-4916-9889-a44df29eeec1)
+![image](https://github.com/Laislacerds/Cadastro_Users/assets/112042523/8ba8a473-59b0-4955-972d-1e3a06b37729)
 
 Este é um projeto desenvolvido em Django que permite cadastrar usuários em um banco de dados e exibi-los em uma tabela.
 
