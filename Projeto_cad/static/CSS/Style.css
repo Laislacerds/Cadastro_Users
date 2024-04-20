@@ -1,0 +1,42 @@
+        /* Estilos personalizados */
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .navbar-custom {
+            background-color: #343a40 !important;
+        }
+
+        .navbar-custom .navbar-brand,
+        .navbar-custom .navbar-nav .nav-link {
+            color: #ffffff !important;
+        }
+
+        .navbar-custom .nav-link:hover {
+            color: #f8f9fa !important;
+        }
+
+        .card-custom {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-custom .card-header {
+            background-color: #343a40;
+            color: #ffffff;
+            border-bottom: none;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .btn-custom {
+            background-color: #343a40;
+            border-color: #343a40;
+            color: #ffffff;
+        }
+
+        .btn-custom:hover {
+            background-color: #23272b;
+            border-color: #23272b;
+        }

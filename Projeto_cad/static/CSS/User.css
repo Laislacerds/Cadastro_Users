@@ -1,0 +1,65 @@
+/* Estilos personalizados */
+body {
+    background-color: #f8f9fa; /* Cor de fundo da página */
+}
+
+.navbar-custom {
+    background-color: #343a40 !important; /* Cor da barra de navegação */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffffff !important; /* Cor do texto da barra de navegação */
+}
+
+.navbar-custom .nav-link:hover {
+    color: #f8f9fa !important; /* Cor do texto ao passar o mouse sobre a barra de navegação */
+}
+
+.card-custom {
+    border: 1px solid #ced4da; /* Adiciona borda sólida */
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-custom .card-header {
+    background-color: #343a40;
+    color: #ffffff;
+    border-bottom: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.btn-custom {
+    background-color: #343a40;
+    border-color: #343a40;
+    color: #ffffff;
+}
+
+.btn-custom:hover {
+    background-color: #23272b;
+    border-color: #23272b;
+}
+
+/* Estilo para a tabela */
+.table {
+    width: 100%; /* Define a largura da tabela como 100% */
+    border-collapse: collapse; /* Colapso das bordas das células */
+}
+
+.table th,
+.table td {
+    border: 1px solid #dee2e6; /* Adiciona borda sólida */
+    padding: 8px; /* Espaçamento interno */
+    text-align: left; /* Alinhamento do texto à esquerda */
+}
+
+.table th {
+    background-color: #343a40; /* Cor de fundo do cabeçalho */
+    color: #ffffff; /* Cor do texto do cabeçalho */
+}
+
+/* Estilo para centralizar o título */
+.container h1{
+    text-align: center; /* Centraliza o conteúdo dentro da div container */
+}
