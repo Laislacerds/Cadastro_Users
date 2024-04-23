@@ -12,6 +12,7 @@ Este é um projeto desenvolvido em Django que permite cadastrar usuários em um 
   - Senha
   - CEP
 - Exibição dos usuários cadastrados em uma tabela na página inicial.
+- Validação do campo cep por API "ViaCep"
 
 ## Requisitos
 
